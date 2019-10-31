@@ -22,3 +22,7 @@ This repository holds the device support files for the tvOS, and I will update i
 	* 12.2	`2019/10/22`
 	* 12.3	`2019/10/22`
 	* 12.4 (16M567)	`2019/10/22`
+	* 12.4	`2019/10/31`
+5. tvOS 13.x
+	* 13.0	`2019/10/31`
+	* 13.2	`2019/10/31`
