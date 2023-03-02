@@ -66,4 +66,6 @@ This repository holds the device support files for the tvOS, and I will update i
 	* 16.0 (FromXcode_14.0.1_Release_Candidate.xip) `2022/09/20`
 	* 16.0 (FromXcode_14.1_Release_Candidate.xip) `2022/10/20`
 	* 16.1 (FromXcode_14.1_Release_Candidate.xip) `2022/10/20`
+	* 16.1 (FromXcode_14.3_beta_2.xip) `2023/03/02`
+	* 16.4 (FromXcode_14.3_beta_2.xip) `2023/03/02`
 
